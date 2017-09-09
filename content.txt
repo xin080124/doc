@@ -15,3 +15,33 @@ Worked for more than 4.5 years as a programmer,
 Reading spec document of clients.
 Being the contact window for the clients, handling their requests. 
 Developing software(UI and layers above midwares) for Smart TV SOC board (Linux on MIPS, Linux on ARM).
+
+
+Have made contribution to the following important Project:
+
+Project archived mass production :
+2012 NT **557* model for Philips (Module: DTV scan )
+2013 NT **567* model for Philips (Module: DTV scan )
+2014 NT **453* model for Philips (Module: DTV scan )
+2015 NT **453* model for Arcelik(Module: Multimedia) 
+2015 NT **453* model for LG(Module: Multimedia)
+2016 NT **562* model for Philips(Module: Multimedia) 
+
+Turnkey Project:
+2013 NT **567* complete DTV EU certificate   
+2014 NT **667* complete CCT certificate for DLNA
+   
+And also made great efforts in Project for SONY(2016) and Hisense(2015)
+
+Software Testing Engineer                                                                    Jul.2007 – Mar.2011         
+MINDRAY Bio Medical Electronic Limited by Share Ltd
+Worked for more than 3.5 years as a software testing engineer,
+Developing several tools for software testing, mainly C,C++ language (on WinCE, Nucleus platforms, with IDE of VC6, CodeWarrior).
+Secondary developed platform “Testlink” to meet our testing team’s special requirements.
+
+Achievement:
+Released several auto test tools to reduce the tester’s work load；
+Built up testlink platform to optimize the testcase managing flow;
+Generated auto bug statistics report tool based on webpage, substituted the Crystal Report tool, reduce the time cost for more than 80%.
+Completed several special tests for ultrasound devices.
+Maintained script for CI server, which is used for auto build, code commit statistic and so on.
