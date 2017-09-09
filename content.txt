@@ -1,0 +1,25 @@
+KEY SKILLS & STRENGTHS                                                       
+
+  
+2012.Mar - 2016.Nov Novatek Microelectronics Corp£¬Xi¡¯an branch department
+Official website:
+http://www.novatek.com.tw/index.asp?LC=EN
+Worked for more than 4.5 years as a programmer, 
+Major work responsibility was developing software(UI and layers above midwares) for Smart TV SOC board (Linux on MIPS, Linux on ARM).
+Solid working knowledge of coding(mainly with C,C++), debugging(with some tools like gdb,kdebugd and so on). Skilled in using Linux cmd.
+Understand oo and some important design patterns.
+Familiar with software develop tools like git, svn, Manits, Jira.
+Had some experience with python and other script languages.
+    Had participated in debugging multimedia online playing flow(with wireshark tool)
+
+RELEVANT EXPERIENCE                                                         
+2012.Mar - 2016.Nov Novatek Microelectronics Corp£¬Xi¡¯an branch department
+Official website:
+http://www.novatek.com.tw/index.asp?LC=EN
+Worked for more than 4.5 years as a programmer, 
+Major work responsibility was developing software(UI and layers above midwares) for Smart TV SOC board (Linux on MIPS, Linux on ARM).
+Solid working knowledge of coding(mainly with C,C++), debugging(with some tools like gdb,kdebugd and so on). Skilled in using Linux cmd.
+Understand oo and some important design patterns.
+Familiar with software develop tools like git, svn, Manits, Jira.
+Had some experience with python and other script languages.
+    Had participated in debugging multimedia online playing flow(with wireshark tool)     
