@@ -1,25 +1,17 @@
-KEY SKILLS & STRENGTHS                                                       
-
-  
-2012.Mar - 2016.Nov Novatek Microelectronics Corp��Xi��an branch department
-Official website:
-http://www.novatek.com.tw/index.asp?LC=EN
-Worked for more than 4.5 years as a programmer, 
-Major work responsibility was developing software(UI and layers above midwares) for Smart TV SOC board (Linux on MIPS, Linux on ARM).
-Solid working knowledge of coding(mainly with C,C++), debugging(with some tools like gdb,kdebugd and so on). Skilled in using Linux cmd.
-Understand oo and some important design patterns.
+KEY SKILLS & STRENGTHS    
+4.5 years of full time paid work experience as a software developer
+Skilled at developing at Linux platform, able to use debug tool like gdb.
+Skilled at UI designing and developing.
+Solid working knowledge of coding(mainly with C,C++).
 Familiar with software develop tools like git, svn, Manits, Jira.
-Had some experience with python and other script languages.
-    Had participated in debugging multimedia online playing flow(with wireshark tool)
+Good understanding of oo and some important design patterns.
+Able to use script languages like python, PHP, JavaScript.
+Able to use HTML, MySQL, SQL server.
 
-RELEVANT EXPERIENCE                                                         
-2012.Mar - 2016.Nov Novatek Microelectronics Corp��Xi��an branch department
-Official website:
-http://www.novatek.com.tw/index.asp?LC=EN
+RELEVANT EXPERIENCE                                                         
+Software Developer                                                                             Mar 2012 - Nov 2016  
+Novatek Microelectronics Corp£¬Xi¡¯an branch department
 Worked for more than 4.5 years as a programmer, 
-Major work responsibility was developing software(UI and layers above midwares) for Smart TV SOC board (Linux on MIPS, Linux on ARM).
-Solid working knowledge of coding(mainly with C,C++), debugging(with some tools like gdb,kdebugd and so on). Skilled in using Linux cmd.
-Understand oo and some important design patterns.
-Familiar with software develop tools like git, svn, Manits, Jira.
-Had some experience with python and other script languages.
-    Had participated in debugging multimedia online playing flow(with wireshark tool)     
+Reading spec document of clients.
+Being the contact window for the clients, handling their requests. 
+Developing software(UI and layers above midwares) for Smart TV SOC board (Linux on MIPS, Linux on ARM).
